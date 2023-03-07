@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamisiPojjo
 - 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning Data Analysis NanoDegree from Udacity and Data Analytics from Google Coursera.
+- 🌱 Everyday is a learning day.
 - 💞️ I’m looking to collaborate on Machine Learning and Data Analysis projects inorder to share my knowledge and skills and solve real world problems.
 - 📫 I have attached my email address on my profile as my primary contact address.
 
